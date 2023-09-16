@@ -1,0 +1,8 @@
+#ifndef DEMO_CONFIG_H
+#define DEMO_CONFIG_H
+
+#define DEMO_DATA_DIR     "@demo_datadir@"
+#define DEMO_VERSION      "@project_version@"
+#define DEMO_PROJECT_NAME "@project_name@"
+
+#endif

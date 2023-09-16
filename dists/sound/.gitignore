@@ -1,0 +1,7 @@
+# Do not upload music files
+
+/*.mp3
+/*.ogg
+/*.aac
+/*.flac
+/*.wav
